@@ -1,0 +1,55 @@
+.text-center{
+    text-align: center;
+    font-weight: bolder;
+    color: bisque;
+
+    
+}
+
+.bg-aqua{
+
+    background-color:yellowgreen;
+}
+
+.mx-auto{
+
+    margin: auto;
+}
+.flex{
+
+    display: flex;
+    background-color: rgb(68, 139, 126);
+    
+}
+
+.flex-col{
+    flex-direction: column;
+
+}
+
+.items-center{
+
+    align-items: center;
+}
+
+.a1{
+
+    background-color: grey;
+    font-size: large;
+    
+}
+
+.a2{
+
+    background-color: orange;
+    font-weight: bolder;
+    font-size: large;
+    color:white
+}
+
+.a3{
+
+    background-color: rgb(62, 61, 61);
+    font-size: large;
+    color:white
+}
